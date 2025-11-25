@@ -3,8 +3,6 @@
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 #EXTINF:0 type="stream" channelId="2215", RAI 1 FHD
 http://sars.nobip.online:80/yq6nmjTCiw/P5tKQz1xf9/402724
-#EXTINF:-1 tvg-id="LA1.es" tvg-name="4K| LA 1 UHD" tvg-logo="http://103.176.90.95/images/1620282.png" group-title="4K UHD 3840P",4K| LA 1 UHD
-http://line.protv.cc:80/Rosalie/Rosalie/1620282
 #EXTINF:0 type="stream" channelId="1320" name="ES: LA 1" group="ES | TOP CANALES VIP" logo="https://docdog.top/logo/countries/spain/movistar/LA_1.png" country="es", LA 1
 http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/648
 #EXTINF:0 type="stream" channelId="1265" group="DE Germany" catchup-days="6", ORF 2 HD
@@ -249,4 +247,5 @@ http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/12251/index.m3u8
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/12252/index.m3u8
 #EXTINF:0 type="favorites" channelId="961" name="ORF 2" group="DE" country="de",  ORF 2
 http://lunar.pm:8080/WendellL22/ETXo96oM7m/121817
+
 

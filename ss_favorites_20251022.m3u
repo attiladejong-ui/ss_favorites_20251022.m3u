@@ -6,7 +6,7 @@ http://176.65.146.237:8401/play/a09u/index.m3u8
 
 #EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title=" ESP | Spain ",La 1 HD (1080p)
 http://176.65.146.237:8401/play/a095/index.m3u8
-#EXTINF:-1 tvg-id="La1.esUHD" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="Spain",La 1 UHD (2160p)
+#EXTINF:-1 tvg-id="La1.esUHD" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title=" ESP | Spain",La 1 UHD (2160p)
 http://176.65.146.237:8401/play/a09u/index.m3u8
 
 
@@ -264,6 +264,7 @@ http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/12251/index.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="Израиль | ישראלי", Sport 4 FHD IL
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/12252/index.m3u8
 #EXTINF:0 type="favorites" channelId="961" name="ORF 2" group="DE" country="de",  ORF 2
+
 
 
 

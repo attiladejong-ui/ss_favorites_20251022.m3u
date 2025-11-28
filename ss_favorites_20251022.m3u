@@ -3,14 +3,7 @@
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 #EXTINF:0 type="stream" channelId="2215", RAI 1 FHD
 http://sars.nobip.online:80/yq6nmjTCiw/P5tKQz1xf9/402724
-#EXTINF:0 type="stream" channelId="1320" name="ES: LA 1" group="ES | TOP CANALES VIP" logo="https://docdog.top/logo/countries/spain/movistar/LA_1.png" country="es", LA 1
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/648
-#EXTINF:0 type="stream" channelId="1265" group="DE Germany" catchup-days="6", ORF 2 HD
-http://as01.links-tv-channels.org/846/index.m3u8?token=eAE9mnX7WzaBq5
-#EXTINF:0 type="stream" channelId="961" name="AT: ORF 2" group="EU | AUSTRIA VIP" logo="https://docdog.top/logo/countries/austria/orf2.png" country="at", ORF 2
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/4009
-#EXTINF:0 type="stream" channelId="3934", Digi Sport 1 4K
-http://update.miicrosoft.es:80/Terturian_Marincas/efihewifheoijfoi/82437
+
 #EXTINF:0 type="stream" channelId="3934", DIGI SPORT
 http://as01.plinks-pile.su/22383/index.m3u8?token=eAE9mnX7WzaBq5
 #EXTINF:0 type="stream" channelId="3935" group="Румыния | Romania", DIGI Sport 2 HD RO
@@ -18,23 +11,23 @@ http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/2522/index.m3u8
 #EXTINF:0 type="stream" channelId="3935" group="Румыния | Romania", DIGI Sport 2 HD RO
 http://as01.plinks-pile.su/22382/index.m3u8?token=eAE9mnX7WzaBq5
 #EXTINF:0 type="stream" channelId="3936", DIGI SPORT 3 HD
-http://ibee.shott.top/p/f45564f8e5f172aabf449ce20a69ce9d/1515
+
 #EXTINF:0 type="stream" channelId="3937", DIGI SPORT 4
 http://87143.fly63.be:80/Kenansoy/mKzd9oDz2c/229316
 #EXTINF:0 type="stream" channelId="4737", Arena 4 HD
 http://213.163.13.122:1559/udp/239.1.10.62:2000
 #EXTINF:0 type="stream" channelId="-1", Spiler 1 HD
-http://lunar.pm:8080/Ernest22/NZjmJKe4s0/122139
+
 #EXTINF:0 type="stream" channelId="-1", Spiler 2 HD
-http://lunar.pm:8080/Ernest22/NZjmJKe4s0/122138
+
 #EXTINF:0 type="stream" channelId="-1", Match 4 HD
 http://213.163.13.122:1559/udp/239.1.10.19:2000
 #EXTINF:0 type="stream" channelId="2888", CINEMAX HD
 http://213.163.13.122:1559/udp/239.1.10.40:2000
 #EXTINF:0 type="stream" channelId="1547" name="CINEMAX 2" group="HU" country="hu", CINEMAX 2
-http://lunar.pm:8080/WendellL22/ETXo96oM7m/122079
+
 #EXTINF:0 type="stream" channelId="1330", HBO HD
-http://195.189.60.31:8003/play/a0i8/index.m3u8
+
 #EXTINF:0 type="stream" channelId="935", HBO 2 HD
 http://213.163.13.122:1559/udp/239.1.10.38:2000
 #EXTINF:0 type="stream" channelId="3185", HBO 3 HD
@@ -152,21 +145,16 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/31549/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Кино", Мосфильм. Золотая коллекция +4 HD
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/17022/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Канада | Canada", Turner Classic Movies HD CA
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/6458/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group="Канада | Canada", MovieTime HD CA
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/6486/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Швеция | Sweden", V Film Family HD SE
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/12083/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Швеция | Sweden", V Film Action HD SE
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/12081/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Швеция | Sweden", V Film Premiere HD SE
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/12082/index.m3u8
+
+
 #EXTINF:0 type="stream" channelId="-1" group="Кино", MS Magic 4K
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/16143/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Кино", VF Marvel
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/10081/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Film Now FHD
-http://update.miicrosoft.es:80/Terturian_Marincas/efihewifheoijfoi/8982
+
 #EXTINF:0 type="stream" channelId="-1" group="Кино", VF Fantasy
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/10005/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Кино", Liberty Легенда 4K
@@ -180,9 +168,9 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/11009/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Кино", VF Disney Movie
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/15010/index.m3u8
 #EXTINF:0 type="stream" channelId="1169" name="DE | Sky 1 FHD" group="|LIVE| GERMANY" logo="http://snow-cdn.cc/images2/9a3ff0d59fd3dab49a4e81b40df71eaf.png", DE | Sky 1 FHD
-http://alexyatvcasa.xyz:8080/Davjen/ejuPgC9P/7465
+
 #EXTINF:0 type="stream" channelId="-1" name="DE | Sky Replay FHD" group="|LIVE| GERMANY" logo="http://snow-cdn.cc/images2/e0fa6715bdb42b6656f5628a3ec49b7c.png", DE | Sky Replay FHD
-http://alexyatvcasa.xyz:8080/Davjen/ejuPgC9P/7471
+
 #EXTINF:0 type="stream" channelId="2148" name="TF1 FHD" group="FR" country="fr", TF1 FHD
 http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/116066
 #EXTINF:0 type="stream" channelId="3313" group="Германия | Germany", KinoweltTV HD DE
@@ -222,7 +210,7 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/31601/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Спорт", Nova Sport 4 HD CZ
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/31571/index.m3u8
 #EXTINF:0 type="stream" channelId="1349" name="CANAL+ Sport" group="PL" country="pl", CANAL+ Sport
-http://filex.tv:8080/@singh_tesla_7207492/puWnhEGsXpK3/316227
+
 #EXTINF:0 type="stream" channelId="-1" group="Спорт", Arena Premium 1 HD RS
 http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/31599/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Спорт", Окко Прайм Спорт
@@ -230,7 +218,7 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/20135/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Спорт", Окко Прайм Спорт
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/20135/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Франция | France", TF1 HD FR
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/7262/index.m3u8
+
 #EXTINF:0 type="favorites" channelId="-1" group="Португалия | Portugal", Sport TV 1 HD PT
 http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/2525/index.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="Португалия | Portugal", Sport TV 2 HD PT
@@ -246,7 +234,8 @@ http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/12251/index.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="Израиль | ישראלי", Sport 4 FHD IL
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/12252/index.m3u8
 #EXTINF:0 type="favorites" channelId="961" name="ORF 2" group="DE" country="de",  ORF 2
-http://lunar.pm:8080/WendellL22/ETXo96oM7m/121817
+
+
 
 
 

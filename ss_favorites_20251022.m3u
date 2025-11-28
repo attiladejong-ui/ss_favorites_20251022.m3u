@@ -20,8 +20,6 @@ http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/121790
 http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/92689
 #EXTINF:-1 tvg-id="srf2.ch" tvg-name="CH: SRF 2 HD" tvg-logo="https://i.ibb.co/72QCSyL/image.png" group-title="CH | SWISS",CH: SRF 2 HD
 http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/72952
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 1" tvg-logo="" group-title="ITALY ",IT: RAI 1
-http://tv14s.xyz:8080/JVSh9ft29E/M7hwSTAUwd/212895
 
 #EXTINF:0 type="stream" channelId="1000", RAI 1
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
@@ -264,6 +262,7 @@ http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/12251/index.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="Израиль | ישראלי", Sport 4 FHD IL
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/12252/index.m3u8
 #EXTINF:0 type="favorites" channelId="961" name="ORF 2" group="DE" country="de",  ORF 2
+
 
 
 

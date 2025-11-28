@@ -33,16 +33,22 @@ http://87143.fly63.be:80/Kenansoy/mKzd9oDz2c/229316
 #EXTINF:0 type="stream" channelId="4737", Arena 4 HD
 http://213.163.13.122:1559/udp/239.1.10.62:2000
 #EXTINF:0 type="stream" channelId="-1", Spiler 1 HD
-
+http://agron-mjeshtri.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/9468
 #EXTINF:0 type="stream" channelId="-1", Spiler 2 HD
-
+http://agron-mjeshtri.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/78577
 #EXTINF:0 type="stream" channelId="-1", Match 4 HD
 http://213.163.13.122:1559/udp/239.1.10.19:2000
 #EXTINF:0 type="stream" channelId="2888", CINEMAX HD
 http://213.163.13.122:1559/udp/239.1.10.40:2000
 #EXTINF:0 type="stream" channelId="1547" name="CINEMAX 2" group="HU" country="hu", CINEMAX 2
 
-#EXTINF:0 type="stream" channelId="1330", HBO HD
+#EXTINF:-1 tvg-id="HBO HD HU" tvg-name="HBO 1 HU" tvg-logo="https://static.epg.best/hu/HBO.hu.png" group-title="Hungary",HBO 1 HU
+http://agron-mjeshtri.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/9497
+#EXTINF:-1 tvg-id="HBO 2 HD HU" tvg-name="HBO 2 HU" tvg-logo="https://static.epg.best/hu/HBO2.hu.png" group-title="Hungary",HBO 2 HU
+http://agron-mjeshtri.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/9496
+#EXTINF:-1 tvg-id="HBO 3 HD HU" tvg-name="HBO 3 HU" tvg-logo="https://static.epg.best/hu/HBO3.hu.png" group-title="Hungary",HBO 3 HU
+http://agron-mjeshtri.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/9495
+
 
 #EXTINF:0 type="stream" channelId="935", HBO 2 HD
 http://213.163.13.122:1559/udp/239.1.10.38:2000
@@ -250,6 +256,7 @@ http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/12251/index.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="Израиль | ישראלי", Sport 4 FHD IL
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/12252/index.m3u8
 #EXTINF:0 type="favorites" channelId="961" name="ORF 2" group="DE" country="de",  ORF 2
+
 
 
 

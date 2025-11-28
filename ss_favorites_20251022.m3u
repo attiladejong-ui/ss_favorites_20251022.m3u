@@ -4,7 +4,7 @@ http://176.65.146.237:8401/play/a095/index.m3u8
 #EXTINF:-1 tvg-id="La1.es@UHD" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="General",La 1 UHD (2160p)
 http://176.65.146.237:8401/play/a09u/index.m3u8
 
-#EXTINF:-1 tvg-id="orf2.de" tvg-name="ORF 2 HEVC" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/ORF-2-2019-min.png" group-title="DE | HEVC / RAW",ORF 2 HEVC
+#EXTINF:-1 tvg-id="orf2.de" tvg-name="ORF 2 HEVC" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/ORF-2-2019-min.png" group-title="AT | AUSTRIA",ORF 2 HD
 http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/160905
 #EXTINF:-1 tvg-id="orf2.at" tvg-name="ORF 2 HD" tvg-logo="https://tvlogo.nl/files/ch/AUSTRA/ORF2HD-min.png" group-title="AT | AUSTRIA",ORF 2 HD
 http://x77tv.xyz:8080/NeumullerDJF/5gCw8buwaY/250018
@@ -258,6 +258,7 @@ http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/12251/index.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="Израиль | ישראלי", Sport 4 FHD IL
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/12252/index.m3u8
 #EXTINF:0 type="favorites" channelId="961" name="ORF 2" group="DE" country="de",  ORF 2
+
 
 
 

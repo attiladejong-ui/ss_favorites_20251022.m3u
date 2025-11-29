@@ -29,7 +29,9 @@ http://as01.plinks-pile.su/22383/index.m3u8?token=eAE9mnX7WzaBq5
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/2522/index.m3u8
 #EXTINF:0 type="stream" channelId="3935" group="Румыния | Romania", DIGI Sport 2 HD RO
 http://as01.plinks-pile.su/22382/index.m3u8?token=eAE9mnX7WzaBq5
-#EXTINF:0 type="stream" channelId="3936", DIGI SPORT 3 HD
+#EXTINF:0 type="stream" channelId="3936", DIGI SPORT 3 HD" tvg-logo="http://play.wisp.cat/logos/2136.png" tvg-id="digisport3",Digi Sport 3 HD
+http://tinyurl.com/TvZaTak14/DigiSport3FHDRO/video.m3u8?token=UkZGRv9BLD&21yo=0?|User-Agent=http-user-agent=Mozilla/5.0 iPhone; CPU iPhone OS 18_6 like Mac OS X AppleWebKit/605.1.15 KHTML, like Gecko CriOS/139.0.7258.76 Mobile/15E148 Safari/604.1
+
 
 #EXTINF:0 type="stream" channelId="3937", DIGI SPORT 4
 http://87143.fly63.be:80/Kenansoy/mKzd9oDz2c/229316
@@ -259,6 +261,7 @@ http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/12251/index.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="Израиль | ישראלי", Sport 4 FHD IL
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/12252/index.m3u8
 #EXTINF:0 type="favorites" channelId="961" name="ORF 2" group="DE" country="de",  ORF 2
+
 
 
 

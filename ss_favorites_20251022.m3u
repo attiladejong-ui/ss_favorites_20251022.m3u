@@ -290,6 +290,8 @@ http://hanaiptv.com:8080/lalad/UkBXNhTMLv/3614
 http://hanaiptv.com:8080/lalad/UkBXNhTMLv/122446
 #EXTINF:-1 tvg-id="SportTV 7 PT" tvg-name="SportTV 7 FHD PT" tvg-logo="" group-title="Portugal",SportTV 7 FHD PT
 http://hanaiptv.com:8080/lalad/UkBXNhTMLv/122745
+#EXTINF:-1 tvg-id="" tvg-name="Sport 5 4K Ultra IL" tvg-logo="" group-title="Israel",Sport 5 4K Ultra IL
+http://hanaiptv.com:8080/lalad/UkBXNhTMLv/90116
 
 
 
@@ -300,7 +302,8 @@ http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/12250/index.m3u8
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/12251/index.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="Израиль | ישראלי", Sport 4 FHD IL
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/12252/index.m3u8
-#EXTINF:0 type="favorites" channelId="961" name="ORF 2" group="DE" country="de",  ORF 2
+
+
 
 
 

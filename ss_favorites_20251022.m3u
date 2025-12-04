@@ -29,8 +29,7 @@ http://update.miicrosoft.es:80/AN224156/x6Mo6HHbW5/82437
 #EXTINF:0 type="stream" channelId="3934", DIGI SPORT
 http://as01.plinks-pile.su/22383/index.m3u8?token=eAE9mnX7WzaBq5
 
-#EXTINF:0 type="stream" channelId="3935" group="Румыния | Romania", DIGI Sport 2 HD RO
-http://as01.plinks-pile.su/22382/index.m3u8?token=eAE9mnX7WzaBq5
+
 #EXTINF:-1,Digi Sport 2 FHD
 http://update.miicrosoft.es:80/AN224156/x6Mo6HHbW5/82430
 
@@ -267,6 +266,7 @@ http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/12251/index.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="Израиль | ישראלי", Sport 4 FHD IL
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/12252/index.m3u8
 #EXTINF:0 type="favorites" channelId="961" name="ORF 2" group="DE" country="de",  ORF 2
+
 
 
 

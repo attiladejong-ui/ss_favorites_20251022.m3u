@@ -250,48 +250,7 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/20135/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Спорт", Окко Прайм Спорт
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/20135/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Франция | France", TF1 HD FR
-#EXTINF:-1 tvg-id="SportTV 1 PT" tvg-name="SportTV UHD 4K PT" tvg-logo="http://tugapt.com/picons/sporttvuhd.png" group-title="Portugal",SportTV UHD 4K PT
-http://hanaiptv.com:8080/lalad/UkBXNhTMLv/15064
-#EXTINF:-1 tvg-id="SportTV Plus PT" tvg-name="SportTV+ FHD PT" tvg-logo="http://tugapt.com/picons/sporttvplushd.png" group-title="Portugal",SportTV+ FHD PT
-http://hanaiptv.com:8080/lalad/UkBXNhTMLv/13248
-#EXTINF:-1 tvg-id="SportTV 1 PT" tvg-name="SportTV 1 PT" tvg-logo="http://tugapt.com/picons/sporttv1pt.png" group-title="Portugal",SportTV 1 PT
-http://hanaiptv.com:8080/lalad/UkBXNhTMLv/2678
-#EXTINF:-1 tvg-id="SportTV 1 PT" tvg-name="SportTV 1 SD PT" tvg-logo="http://tugapt.com/picons/sporttv1pt.png" group-title="Portugal",SportTV 1 SD PT
-http://hanaiptv.com:8080/lalad/UkBXNhTMLv/7426
-#EXTINF:-1 tvg-id="SportTV 1 PT" tvg-name="SportTV 1 FHD PT" tvg-logo="http://tugapt.com/picons/sporttv1hdpt.png" group-title="Portugal",SportTV 1 FHD PT
-http://hanaiptv.com:8080/lalad/UkBXNhTMLv/3618
-#EXTINF:-1 tvg-id="SportTV 2 PT" tvg-name="SportTV 2 PT" tvg-logo="http://tugapt.com/picons/sporttv2pt.png" group-title="Portugal",SportTV 2 PT
-http://hanaiptv.com:8080/lalad/UkBXNhTMLv/2677
-#EXTINF:-1 tvg-id="SportTV 2 PT" tvg-name="SportTV 2 HD PT" tvg-logo="http://tugapt.com/picons/sporttv2hdpt.png" group-title="Portugal",SportTV 2 HD PT
-http://hanaiptv.com:8080/lalad/UkBXNhTMLv/78312
-#EXTINF:-1 tvg-id="SportTV 2 PT" tvg-name="SportTV 2 FHD PT" tvg-logo="http://tugapt.com/picons/sporttv2hdpt.png" group-title="Portugal",SportTV 2 FHD PT
-http://hanaiptv.com:8080/lalad/UkBXNhTMLv/3617
-#EXTINF:-1 tvg-id="SportTV 3 PT" tvg-name="SportTV 3 PT" tvg-logo="http://tugapt.com/picons/sporttv3pt.png" group-title="Portugal",SportTV 3 PT
-http://hanaiptv.com:8080/lalad/UkBXNhTMLv/2676
-#EXTINF:-1 tvg-id="SportTV 3 PT" tvg-name="SportTV 3 HD PT" tvg-logo="http://tugapt.com/picons/sporttv3hdpt.png" group-title="Portugal",SportTV 3 HD PT
-http://hanaiptv.com:8080/lalad/UkBXNhTMLv/78313
-#EXTINF:-1 tvg-id="SportTV 3 PT" tvg-name="SportTV 3 FHD PT" tvg-logo="http://tugapt.com/picons/sporttv3hdpt.png" group-title="Portugal",SportTV 3 FHD PT
-http://hanaiptv.com:8080/lalad/UkBXNhTMLv/3616
-#EXTINF:-1 tvg-id="SportTV 4 PT" tvg-name="SportTV 4 PT" tvg-logo="http://tugapt.com/picons/sporttv4pt.png" group-title="Portugal",SportTV 4 PT
-http://hanaiptv.com:8080/lalad/UkBXNhTMLv/2675
-#EXTINF:-1 tvg-id="SportTV 4 PT" tvg-name="SportTV 4 HD PT" tvg-logo="http://tugapt.com/picons/sporttv4pt.png" group-title="Portugal",SportTV 4 HD PT
-http://hanaiptv.com:8080/lalad/UkBXNhTMLv/78314
-#EXTINF:-1 tvg-id="SportTV 4 PT" tvg-name="SportTV 4 FHD PT" tvg-logo="http://tugapt.com/picons/sporttv4hdpt.png" group-title="Portugal",SportTV 4 FHD PT
-http://hanaiptv.com:8080/lalad/UkBXNhTMLv/3615
-#EXTINF:-1 tvg-id="SportTV 5 PT" tvg-name="SportTV 5 PT" tvg-logo="http://tugapt.com/picons/sporttv5pt.png" group-title="Portugal",SportTV 5 PT
-http://hanaiptv.com:8080/lalad/UkBXNhTMLv/2674
-#EXTINF:-1 tvg-id="SportTV 5 PT" tvg-name="SportTV 5 ( Baixa Internet ) PT" tvg-logo="http://tugapt.com/picons/sporttv5hdpt.png" group-title="Portugal",SportTV 5 ( Baixa Internet ) PT
-http://hanaiptv.com:8080/lalad/UkBXNhTMLv/75452
-#EXTINF:-1 tvg-id="SportTV 5 PT" tvg-name="SportTV 5 HD PT" tvg-logo="http://tugapt.com/picons/sporttv5hdpt.png" group-title="Portugal",SportTV 5 HD PT
-http://hanaiptv.com:8080/lalad/UkBXNhTMLv/48359
-#EXTINF:-1 tvg-id="SportTV 5 PT" tvg-name="SportTV 5 FHD PT" tvg-logo="http://tugapt.com/picons/sporttv5hdpt.png" group-title="Portugal",SportTV 5 FHD PT
-http://hanaiptv.com:8080/lalad/UkBXNhTMLv/3614
-#EXTINF:-1 tvg-id="SportTV 7 PT" tvg-name="SportTV 7 PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/sport-tv-7-meo-logo.webp" group-title="Portugal",SportTV 7 PT
-http://hanaiptv.com:8080/lalad/UkBXNhTMLv/122446
-#EXTINF:-1 tvg-id="SportTV 7 PT" tvg-name="SportTV 7 FHD PT" tvg-logo="" group-title="Portugal",SportTV 7 FHD PT
-http://hanaiptv.com:8080/lalad/UkBXNhTMLv/122745
-#EXTINF:-1 tvg-id="" tvg-name="Sport 5 4K Ultra IL" tvg-logo="" group-title="Israel",Sport 5 4K Ultra IL
-http://hanaiptv.com:8080/lalad/UkBXNhTMLv/90116
+
 
 
 
@@ -302,6 +261,7 @@ http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/12250/index.m3u8
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/12251/index.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="Израиль | ישראלי", Sport 4 FHD IL
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/12252/index.m3u8
+
 
 
 

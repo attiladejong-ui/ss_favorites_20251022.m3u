@@ -250,6 +250,8 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/20135/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Спорт", Окко Прайм Спорт
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/20135/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Франция | France", TF1 HD FR
+#EXTINF:-1 tvg-id="SportTV 1 PT" tvg-name="SportTV UHD 4K PT" tvg-logo="http://tugapt.com/picons/sporttvuhd.png" group-title="Portugal",SportTV UHD 4K PT
+http://hanaiptv.com:8080/lalad/UkBXNhTMLv/15064
 
 
 
@@ -261,6 +263,7 @@ http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/12251/index.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="Израиль | ישראלי", Sport 4 FHD IL
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/12252/index.m3u8
 #EXTINF:0 type="favorites" channelId="961" name="ORF 2" group="DE" country="de",  ORF 2
+
 
 
 

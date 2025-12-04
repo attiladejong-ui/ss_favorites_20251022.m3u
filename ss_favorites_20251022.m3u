@@ -251,14 +251,9 @@ http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/20135/index.m3u8
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/20135/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Франция | France", TF1 HD FR
 
-#EXTINF:0 type="favorites" channelId="-1" group="Португалия | Portugal", Sport TV 1 HD PT
-http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/2525/index.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Португалия | Portugal", Sport TV 2 HD PT
-http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/2526/index.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Португалия | Portugal", Sport TV 3 HD PT
-http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/2527/index.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Португалия | Portugal", Sport TV 4 HD PT
-http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/2528/index.m3u8
+
+
+
 #EXTINF:0 type="favorites" channelId="-1" group="Израиль | ישראלי", Sport 2 HD IL
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/12250/index.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="Израиль | ישראלי", Sport 3 HD IL
@@ -266,6 +261,7 @@ http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/12251/index.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="Израиль | ישראלי", Sport 4 FHD IL
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/12252/index.m3u8
 #EXTINF:0 type="favorites" channelId="961" name="ORF 2" group="DE" country="de",  ORF 2
+
 
 
 

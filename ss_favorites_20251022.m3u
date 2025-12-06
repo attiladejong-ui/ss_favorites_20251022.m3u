@@ -48,6 +48,12 @@ http://agron-mjeshtri.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/9468
 http://agron-mjeshtri.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/78577
 #EXTINF:0 type="stream" channelId="-1", Match 4 HD
 http://213.163.13.122:1559/udp/239.1.10.19:2000
+#EXTINF:-1,TNT Sports Ultimate 4K VIP Sports
+http://fastopen.live:8080/Georrgegov/zTjKE76BRe/131354
+#EXTINF:-1,TNT Sports Ultimate UHD VIP Sports
+http://fastopen.live:8080/Georrgegov/zTjKE76BRe/131353
+
+
 #EXTINF:0 type="stream" channelId="2888", CINEMAX HD
 http://213.163.13.122:1559/udp/239.1.10.40:2000
 #EXTINF:0 type="stream" channelId="1547" name="CINEMAX 2" group="HU" country="hu", CINEMAX 2
@@ -261,6 +267,7 @@ http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/12250/index.m3u8
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/12251/index.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="Израиль | ישראלי", Sport 4 FHD IL
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/12252/index.m3u8
+
 
 
 

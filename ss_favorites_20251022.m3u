@@ -53,6 +53,34 @@ http://fastopen.live:8080/Georrgegov/zTjKE76BRe/131354
 #EXTINF:-1,TNT Sports Ultimate UHD VIP Sports
 http://fastopen.live:8080/Georrgegov/zTjKE76BRe/131353
 
+http://cms.weltiptv.com:8000/hVTQBPN8sG/UxLLyQjNzf/61340
+#EXTINF:0 type="stream" channelId="-1" group="Спорт", Матч! Футбол 2 FHD
+http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2420/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Спорт", Arena Premium 2 HD RS
+http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/31600/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Польша | Poland", Canal+ Sport FHD PL
+http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6098/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Чехия | Czech Republic", M4 Sport HD HU
+http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/31519/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Спорт", Arena Premium 3 HD RS
+http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/31601/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Спорт", Nova Sport 4 HD CZ
+http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/31571/index.m3u8
+#EXTINF:0 type="stream" channelId="1349" name="CANAL+ Sport" group="PL" country="pl", CANAL+ Sport
+#EXTINF:0 type="stream" channelId="-1" group="Спорт", Arena Premium 1 HD RS
+http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/31599/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Спорт", Окко Прайм Спорт
+http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/20135/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Спорт", Окко Прайм Спорт
+http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/20135/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Израиль | ישראלי", Sport 2 HD IL
+http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/12250/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Израиль | ישראלי", Sport 3 HD IL
+http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/12251/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Израиль | ישראלי", Sport 4 FHD IL
+http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/12252/index.m3u8
+
+
 
 #EXTINF:0 type="stream" channelId="2888", CINEMAX HD
 http://213.163.13.122:1559/udp/239.1.10.40:2000
@@ -235,38 +263,7 @@ http://cms.weltiptv.com:8000/hVTQBPN8sG/UxLLyQjNzf/61338
 http://cms.weltiptv.com:8000/hVTQBPN8sG/UxLLyQjNzf/61339
 #EXTINF:0 type="stream" channelId="-1", GERMANY ACTION
 http://cms.weltiptv.com:8000/hVTQBPN8sG/UxLLyQjNzf/61340
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", Матч! Футбол 2 FHD
-http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2420/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", Arena Premium 2 HD RS
-http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/31600/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Польша | Poland", Canal+ Sport FHD PL
-http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6098/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Чехия | Czech Republic", M4 Sport HD HU
-http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/31519/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", Arena Premium 3 HD RS
-http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/31601/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", Nova Sport 4 HD CZ
-http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/31571/index.m3u8
-#EXTINF:0 type="stream" channelId="1349" name="CANAL+ Sport" group="PL" country="pl", CANAL+ Sport
 
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", Arena Premium 1 HD RS
-http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/31599/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", Окко Прайм Спорт
-http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/20135/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Спорт", Окко Прайм Спорт
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/20135/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Франция | France", TF1 HD FR
-
-
-
-
-
-#EXTINF:0 type="favorites" channelId="-1" group="Израиль | ישראלי", Sport 2 HD IL
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/12250/index.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Израиль | ישראלי", Sport 3 HD IL
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/12251/index.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Израиль | ישראלי", Sport 4 FHD IL
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/12252/index.m3u8
 
 
 
